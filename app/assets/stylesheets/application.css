@@ -1,5 +1,3 @@
-@import "bootstrap-sprockets";
-@import "bootstrap";
 
 
 
@@ -16,6 +14,12 @@
  * file per style scope.
  *
  *= require font-awesome
+ *= require animate.min
+ *= require bootstrap.min
+ *= require et-line
+ *= require jssocials-theme-plain
+ *= require jssocials
+ *= require style
  *= require_tree .
  *= require_self
  */
