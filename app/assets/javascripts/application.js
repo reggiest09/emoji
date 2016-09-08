@@ -14,6 +14,7 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+//= require wow.min.js
 //= require jquery-1.11.3.min.js
 //= require jquery.easing.min.js
 //= require jquery.appear.js
@@ -24,4 +25,4 @@
 //= require jquery.placeholder.min.js
 //= require jssocials.min.js
 //= require script.js
-//= require wow.min.js
+
